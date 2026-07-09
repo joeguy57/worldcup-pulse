@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data files (too large for GitHub)
+data/
+
+
+# dbt
+worldcup_dbt/target/
+worldcup_dbt/dbt_packages/
+worldcup_dbt/profiles.yml
+
+# Tableau cache
+.tableau
